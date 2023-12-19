@@ -1,3 +1,0 @@
-# branchtest
-pull
-reviewer
